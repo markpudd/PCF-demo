@@ -131,7 +131,7 @@
 
     <div class="container">
         <div class="footer">
-          <div class="footer-text">(c)2016 Pivotal Software, Inc.  </div>
+          <div class="footer-text">(c)2016 Pivotal Software, Inc. Extra info </div>
           <div class="footer-poweredby"><img src="resources/img/PoweredByPivotal.png" alt="Powered By Pivotal "></div>
 	    </div>
 	</div>
