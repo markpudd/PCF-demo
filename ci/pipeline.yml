@@ -21,7 +21,7 @@ resources:
     type: s3
     source:
       bucket: {{s3-bucket-release-candidates}}
-      regexp: pcfdemo-(.*).war
+      regexp: pcf-demo-(.*).war
       access_key_id: {{s3-access-key-id}}
       secret_access_key: {{s3-secret-access-key}}
       region_name: {{s3-region-name}}
@@ -31,7 +31,7 @@ resources:
     type: s3
     source:
       bucket: {{s3-bucket-releases}}
-      regexp: pcfdemo-(.*).war
+      regexp: pcf-demo-(.*).war
       access_key_id: {{s3-access-key-id}}
       secret_access_key: {{s3-secret-access-key}}
       region_name: {{s3-region-name}}
